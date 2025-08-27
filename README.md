@@ -31,4 +31,9 @@ Includes a command to empty the trashbin with confirmation — like a minimal re
 
 ⚠️ When clearing, all files are **permanently deleted** after confirmation (`y/n`).  
 
+### (Linux/Mac only) Make scripts executable:
+
+`chmod +x delete.sh clear.sh`
+
+
 Have fun! 🎉🗑️
